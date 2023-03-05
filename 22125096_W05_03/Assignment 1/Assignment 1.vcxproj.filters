@@ -18,5 +18,13 @@
     <ClCompile Include="Assignment 1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Func.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Func.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
