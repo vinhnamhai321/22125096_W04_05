@@ -8,9 +8,7 @@ int main()
 	cout << "Huynh Tuan Minh";
 	int x; cin >> x;
 	cout<< sum(x);
-
 	cout << tich(x);
-
 	cout << hieu(x);
 	return 0;
 }
