@@ -10,5 +10,7 @@ int main()
 	cout<< sum(x);
 
 	cout << tich(x);
+
+	cout << hieu(x);
 	return 0;
 }
